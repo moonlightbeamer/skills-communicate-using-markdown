@@ -186,3 +186,5 @@ Huazhong University of Science and Technology (1989 - 1993)
 ![Aviatrix Network Engineer Professional](https://images.credly.com/size/680x680/images/5b22143c-8806-41af-b4c9-7c5043edcbe3/image.png)
 ![VMware Cloud on AWS](https://images.credly.com/size/680x680/images/72a6c1fa-d369-4fd3-9edc-f62c879db636/vmware_Skill_SDDC_20_V2.png)
 ![PMI Project Management Professional](https://images.credly.com/size/680x680/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
