@@ -175,4 +175,4 @@ Huazhong University of Science and Technology (1989 - 1993)
 - Student contest and scholarship winner
 - Graduated with honour on Dean’s list, 88% GPA
 
-[AWS](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+![AWS](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
