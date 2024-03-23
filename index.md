@@ -190,3 +190,7 @@ resource gce instance {
 ![AWS Cloud Practitioner](https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
 ![Hashicorp Terraform Associate](https://images.credly.com/size/680x680/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)
 ![Hashicorp Terraform Implementation](https://images.credly.com/size/680x680/images/0f8ab00e-0121-46c3-beb9-e24f4c86fef8/image.png)
+![Aviatrix Network Engineer Professional](https://images.credly.com/size/680x680/images/5b22143c-8806-41af-b4c9-7c5043edcbe3/image.png)
+![VMware Cloud on AWS](https://images.credly.com/size/680x680/images/72a6c1fa-d369-4fd3-9edc-f62c879db636/vmware_Skill_SDDC_20_V2.png)
+![PMI Project Management Professional](https://images.credly.com/size/680x680/images/260e36dc-d100-45c3-852f-9d8063fa71e6/pmp-600px.png)
+
