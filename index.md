@@ -174,3 +174,5 @@ Huazhong University of Science and Technology (1989 - 1993)
 - Enhanced program for selected students
 - Student contest and scholarship winner
 - Graduated with honour on Dean’s list, 88% GPA
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
