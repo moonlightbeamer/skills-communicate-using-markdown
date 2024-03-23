@@ -181,6 +181,13 @@ resource gce instance {
 
 }
 ```
+
+
+## <p align=center>Check list</p>
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## <p align=center>Certificate Logo</p>
 ![GCP Cloud Architect](https://templates.images.credential.net/16590181582433100721069374350922.png)
 ![GCP Cloud Engineer](https://templates.images.credential.net/16590187933301617801540872729153.png)
